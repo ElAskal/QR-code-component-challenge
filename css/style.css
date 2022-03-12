@@ -1,0 +1,39 @@
+body {
+    background: hsl(212, 45%, 89%);
+}
+
+img {
+    visibility: hidden;
+}
+#main {
+    border-radius: 20px;
+    max-width: 290px;
+    height: 470px;
+    background: hsl(0, 0%, 100%);
+    padding: 15px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+#code {
+    border-radius: 10px ;
+    background-image: url(../images/image-qr-code.png);
+    background-repeat: no-repeat;
+    background-size: contain ;
+    height: 290px;
+}
+
+#text {
+    margin: 15px;
+    text-align: center;
+    font-family: Outfit, sans-serif;
+    font-size: 15px;
+}
+
+#text p {
+    color: grey;
+}
