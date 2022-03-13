@@ -8,9 +8,9 @@ img {
 #main {
     border-radius: 20px;
     max-width: 290px;
-    height: 470px;
+    height: 463px;
     background: hsl(0, 0%, 100%);
-    padding: 16px;
+    padding: 17px;
     position: absolute;
     top: 0;
     right: 0;
@@ -28,13 +28,14 @@ img {
 }
 
 #text {
-    margin: 25px 12px;
+    margin: 25px 15px 15px 15px;
     text-align: center;
     font-family: Outfit, sans-serif;
     font-size: 15px;
-    color: hsl(218, 44%, 22%);
+    color: hsl(220, 15%, 55%);
 }
 
-#text p {
-    color: hsl(220, 15%, 55%);
+#text h2 {
+    color: hsl(218, 44%, 22%);
+    margin-bottom: 15px
 }
