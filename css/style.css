@@ -28,12 +28,13 @@ img {
 }
 
 #text {
-    margin: 15px;
+    margin: 20px 15px;
     text-align: center;
     font-family: Outfit, sans-serif;
     font-size: 15px;
+    color: hsl(218, 44%, 22%);
 }
 
 #text p {
-    color: grey;
+    color: hsl(220, 15%, 55%);
 }
