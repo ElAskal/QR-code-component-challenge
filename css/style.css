@@ -10,7 +10,7 @@ img {
     max-width: 290px;
     height: 470px;
     background: hsl(0, 0%, 100%);
-    padding: 15px;
+    padding: 16px;
     position: absolute;
     top: 0;
     right: 0;
@@ -28,7 +28,7 @@ img {
 }
 
 #text {
-    margin: 20px 15px;
+    margin: 25px 12px;
     text-align: center;
     font-family: Outfit, sans-serif;
     font-size: 15px;
